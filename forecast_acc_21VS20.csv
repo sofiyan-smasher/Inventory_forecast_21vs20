@@ -1,0 +1,210 @@
+customer_code,customer,market,forecast_accuracy_21,forecast_accuracy_20,change_over_21VS20
+70014142,"Atliq Exclusive",Netherlands,0.00,37.43,-37.43
+70014143,"Atliq e Store",Netherlands,0.00,38.32,-38.32
+90014135,"Electricalslance Stores",Netherlands,0.00,34.54,-34.54
+90014136,"Reliance Digital",Netherlands,0.00,37.59,-37.59
+90014137,"Media Markt",Netherlands,0.00,37.85,-37.85
+90014138,Mbit,Netherlands,0.00,37.83,-37.83
+90014139,Elkjøp,Netherlands,0.00,34.74,-34.74
+90014140,"Radio Popular",Netherlands,0.00,38.53,-38.53
+90014141,"Amazon ",Netherlands,0.00,37.39,-37.39
+90007197,"Amazon ","South Korea",15.79,6.40,9.39
+90019202,"Argos (Sainsbury's)",Sweden,16.17,34.88,-18.71
+90019203,"Amazon ",Sweden,16.43,34.66,-18.23
+70007198,"Atliq Exclusive","South Korea",17.33,33.24,-15.91
+70007199,"Atliq e Store","South Korea",17.62,10.04,7.58
+80007196,Leader,"South Korea",18.19,30.40,-12.21
+90012036,Billa,Germany,18.29,26.05,-7.76
+90012034,Otto,Germany,18.37,28.26,-9.89
+90012035,Notebillig,Germany,18.87,20.13,-1.26
+90012037,Saturn,Germany,19.16,25.11,-5.95
+80007195,Sage,"South Korea",19.44,30.09,-10.65
+70012043,"Atliq e Store",Germany,19.79,8.12,11.67
+90019201,Expert,Sweden,20.34,34.94,-14.60
+70019204,"Atliq e Store",Sweden,21.32,29.42,-8.10
+90012040,Fnac-Darty,Germany,21.85,23.25,-1.40
+90012039,"Currys (Dixons Carphone)",Germany,22.19,21.20,0.99
+90012033,Digimarket,Germany,22.51,22.86,-0.35
+70012042,"Atliq Exclusive",Germany,22.88,24.28,-1.40
+90012041,"Amazon ",Germany,23.41,0.00,23.41
+90019200,Sorefoz,Sweden,24.14,36.41,-12.27
+70006158,"Atliq e Store",Philiphines,24.49,42.65,-18.16
+80006154,Synthetic,Philiphines,24.63,37.49,-12.86
+90012038,Expert,Germany,24.70,24.50,0.20
+70006157,"Atliq Exclusive",Philiphines,25.20,35.84,-10.64
+80006155,Novus,Philiphines,25.28,36.59,-11.31
+90006153,Insight,Philiphines,26.88,37.11,-10.23
+90006156,"Amazon ",Philiphines,27.94,37.21,-9.27
+90004068,"Amazon ",Japan,28.29,25.51,2.78
+70004070,"Atliq e Store",Japan,29.01,31.28,-2.27
+90004064,All-Out,Japan,29.09,35.18,-6.09
+90004063,"Electricalsbea Stores",Japan,30.05,33.95,-3.90
+90004065,Neptune,Japan,30.27,35.67,-5.40
+90004067,Amazon,Japan,30.59,31.17,-0.58
+90004061,"Info Stores",Japan,30.85,34.99,-4.14
+70026206,"Atliq e Store",Mexico,31.89,29.20,2.69
+70004069,"Atliq Exclusive",Japan,32.09,37.62,-5.53
+90004062,"Flawless Stores",Japan,32.56,38.22,-5.66
+90016176,"Amazon ",Poland,32.93,26.94,5.99
+90016174,"Currys (Dixons Carphone)",Poland,33.04,33.44,-0.40
+90022074,Flipkart,USA,33.26,0.00,33.26
+90004066,"Surface Stores",Japan,33.51,36.05,-2.54
+90016171,"Electricalsara Stores",Poland,33.54,29.72,3.82
+90016175,"Argos (Sainsbury's)",Poland,33.54,34.41,-0.87
+90022073,Control,USA,33.81,8.03,25.78
+70003181,"Atliq Exclusive",Indonesia,34.55,0.00,34.55
+90022079,walmart,USA,34.55,6.89,27.66
+90022071,"Acclaimed Stores",USA,34.58,1.75,32.83
+90022081,Amazon,USA,34.64,0.00,34.64
+70022085,"Atliq e Store",USA,34.75,0.00,34.75
+90008167,Electricalsocity,Australia,34.77,33.62,1.15
+70016177,"Atliq Exclusive",Poland,34.87,36.22,-1.35
+90016172,Power,Poland,34.89,34.93,-0.04
+70016178,"Atliq e Store",Poland,34.96,26.49,8.47
+90022076,"Circuit City",USA,35.02,9.90,25.12
+90016173,Expert,Poland,35.26,36.76,-1.50
+90022075,BestBuy,USA,35.31,7.31,28.00
+90022080,Staples,USA,35.40,10.53,24.87
+70022084,"Atliq Exclusive",USA,35.44,7.26,28.18
+90022078,Costco,USA,35.53,4.98,30.55
+90005159,Expression,Pakistan,35.87,34.44,1.43
+90008164,Digimarket,Australia,36.01,37.15,-1.14
+90022082,"Amazon ",USA,36.35,0.00,36.35
+90005162,"Amazon ",Pakistan,36.59,33.72,2.87
+90008168,"Amazon ",Australia,36.62,35.92,0.70
+90008166,Sound,Australia,36.79,38.51,-1.72
+90026205,"Amazon ",Mexico,36.84,25.63,11.21
+90022072,Path,USA,36.97,6.48,30.49
+90022083,Ebay,USA,37.01,0.00,37.01
+90005161,Zone,Pakistan,37.10,40.08,-2.98
+90005160,"Nomad Stores",Pakistan,37.29,37.30,-0.01
+70003182,"Atliq e Store",Indonesia,37.32,0.00,37.32
+90003180,"Amazon ",Indonesia,37.47,0.00,37.47
+90024183,"Electricalsbea Stores",Chile,37.76,26.54,11.22
+90024184,"Amazon ",Chile,37.88,18.49,19.39
+70008169,"Atliq Exclusive",Australia,38.09,34.19,3.90
+90022077,"Radio Shack",USA,38.46,7.10,31.36
+70005163,"Atliq e Store",Pakistan,38.62,29.61,9.01
+70008170,"Atliq e Store",Australia,38.74,40.96,-2.22
+90008165,"Forward Stores",Australia,39.27,36.03,3.24
+90003179,"Acclaimed Stores",Indonesia,39.34,0.00,39.34
+90011188,Elkjøp,France,40.16,37.22,2.94
+90020101,Euronics,Austria,40.25,35.72,4.53
+90018105,"Integration Stores",Spain,40.90,33.45,7.45
+90020103,"Amazon ",Austria,41.00,30.90,10.10
+90018113,Elkjøp,Spain,41.17,34.14,7.03
+90011187,"Chip 7",France,41.23,33.80,7.43
+90011190,"Media Markt",France,41.26,35.55,5.71
+70018115,"Atliq e Store",Spain,41.32,21.93,19.39
+90018108,Relief,Spain,41.39,26.66,14.73
+70011194,"Atliq e Store",France,41.40,39.69,1.71
+70020104,"Atliq e Store",Austria,41.41,30.90,10.51
+90018114,"Amazon ",Spain,41.50,27.51,13.99
+90011191,Sorefoz,France,41.54,34.91,6.63
+90018109,Chiptec,Spain,41.56,31.96,9.60
+90009129,Leader,Newzealand,41.57,6.01,35.56
+90002009,Flipkart,India,41.59,12.64,28.95
+90020100,Nova,Austria,41.59,36.07,5.52
+90002014,Expression,India,41.61,30.73,10.88
+90002015,Propel,India,41.82,32.57,9.25
+90018111,"Media Markt",Spain,41.89,32.41,9.48
+90018112,Euronics,Spain,41.97,35.29,6.68
+90011192,"Amazon ",France,42.02,35.65,6.37
+90011189,UniEuro,France,42.08,35.97,6.11
+90002011,"Atliq Exclusive",India,42.13,32.66,9.47
+70011193,"Atliq Exclusive",France,42.15,35.42,6.73
+90002016,"Amazon ",India,42.17,20.33,21.84
+90002013,Electricalslytical,India,42.31,32.76,9.55
+90018106,Flipkart,Spain,42.41,22.47,19.94
+90020099,"Integration Stores",Austria,42.43,35.16,7.27
+90018107,Elite,Spain,42.46,33.45,9.01
+90018110,Boulanger,Spain,42.52,31.38,11.14
+90020102,Fnac-Darty,Austria,42.70,36.18,6.52
+90002008,Amazon,India,42.72,18.77,23.95
+70002017,"Atliq Exclusive",India,42.74,34.21,8.53
+90010046,"Amazon ",Bangladesh,42.74,42.51,0.23
+90002002,Croma,India,42.78,35.49,7.29
+70021096,"Atliq e Store","United Kingdom",42.81,23.46,19.35
+90015145,Synthetic,Norway,42.83,8.66,34.17
+90011185,"Epic Stores",France,42.86,36.66,6.20
+70015151,"Atliq Exclusive",Norway,42.91,3.37,39.54
+90002004,"Vijay Sales",India,42.98,34.48,8.50
+70009133,"Atliq Exclusive",Newzealand,42.99,0.00,42.99
+90002006,Viveks,India,43.03,32.48,10.55
+90010044,"Surface Stores",Bangladesh,43.19,38.33,4.86
+90020098,"Electricalsquipo Stores",Austria,43.19,35.05,8.14
+90020097,"Atlas Stores",Austria,43.23,36.97,6.26
+90011186,Elite,France,43.26,37.55,5.71
+90021091,Expert,"United Kingdom",43.28,34.19,9.09
+90002005,Lotus,India,43.30,34.11,9.19
+90013121,Boulanger,Italy,43.30,29.58,13.72
+70002018,"Atliq e Store",India,43.33,20.29,23.04
+90009128,Propel,Newzealand,43.40,0.00,43.40
+90017057,Euronics,Portugal,43.70,16.45,27.25
+70013126,"Atliq e Store",Italy,43.71,6.22,37.49
+90021092,UniEuro,"United Kingdom",43.73,35.31,8.42
+90013117,Euronics,Italy,43.74,31.06,12.68
+90023029,Staples,Canada,43.74,36.46,7.28
+90023030,"Amazon ",Canada,43.77,41.11,2.66
+90010045,Control,Bangladesh,43.80,37.45,6.35
+90023023,Amazon,Canada,43.80,37.06,6.74
+70023032,"Atliq e Store",Canada,43.81,37.52,6.29
+90015150,"Amazon ",Norway,43.83,0.00,43.83
+70010047,"Atliq Exclusive",Bangladesh,43.85,34.54,9.31
+90009132,"Amazon ",Newzealand,43.93,0.00,43.93
+90009131,Path,Newzealand,43.94,0.00,43.94
+90021089,"Atlas Stores","United Kingdom",43.95,38.10,5.85
+90027207,"Amazon ",Brazil,43.97,34.62,9.35
+90002003,Ezone,India,44.11,33.17,10.94
+90009127,"Epic Stores",Newzealand,44.12,2.83,41.29
+90001020,Zone,China,44.13,25.01,19.12
+70015152,"Atliq e Store",Norway,44.20,0.00,44.20
+90002010,Ebay,India,44.30,23.54,20.76
+90002001,"Reliance Digital",India,44.34,32.78,11.56
+90021090,"Radio Popular","United Kingdom",44.37,36.16,8.21
+90025209,"Electricalsbea Stores",Columbia,44.37,34.21,10.16
+90021086,"Electricalsquipo Stores","United Kingdom",44.45,38.11,6.34
+90021093,"Chip 7","United Kingdom",44.50,33.88,10.62
+90021095,"Amazon ","United Kingdom",44.53,27.92,16.61
+90021087,"Logic Stores","United Kingdom",44.57,36.41,8.16
+90013116,"Unity Stores",Italy,44.61,27.53,17.08
+90002012,Electricalsocity,India,44.66,33.81,10.85
+90017055,"Electricalslance Stores",Portugal,44.68,14.71,29.97
+90013119,"Argos (Sainsbury's)",Italy,44.70,26.24,18.46
+90013123,Expert,Italy,44.76,24.56,20.20
+90017056,Sorefoz,Portugal,44.76,19.14,25.62
+90015148,Boulanger,Norway,44.78,7.92,36.86
+90017052,Power,Portugal,44.83,14.72,30.11
+90017049,"Premium Stores",Portugal,44.91,22.51,22.40
+90001021,Taobao,China,44.98,0.00,44.98
+90002007,Girias,India,45.05,36.01,9.04
+90023022,"Nomad Stores",Canada,45.05,36.60,8.45
+90017059,"Amazon ",Portugal,45.06,0.00,45.06
+90017053,"Info Stores",Portugal,45.08,12.11,32.97
+90013122,"Radio Popular",Italy,45.09,28.68,16.41
+70017060,"Atliq e Store",Portugal,45.10,0.00,45.10
+70023031,"Atliq Exclusive",Canada,45.10,36.80,8.30
+90023025,"Premium Stores",Canada,45.10,35.14,9.96
+90013118,Fnac-Darty,Italy,45.17,27.95,17.22
+70009134,"Atliq e Store",Newzealand,45.19,0.00,45.19
+90021094,Coolblue,"United Kingdom",45.24,37.94,7.30
+70013125,"Atliq Exclusive",Italy,45.28,27.59,17.69
+90017050,"Electricalsara Stores",Portugal,45.28,17.89,27.39
+90015149,UniEuro,Norway,45.33,7.91,37.42
+90021088,Electricalslytical,"United Kingdom",45.33,36.01,9.32
+90009130,"Logic Stores",Newzealand,45.34,0.06,45.28
+90015144,Sound,Norway,45.37,8.37,37.00
+80001019,Neptune,China,45.44,23.40,22.04
+90015147,Chiptec,Norway,45.46,6.38,39.08
+70027208,"Atliq e Store",Brazil,45.51,35.34,10.17
+90017054,"Flawless Stores",Portugal,45.52,13.76,31.76
+90013124,"Amazon ",Italy,45.76,3.77,41.99
+90015146,Mbit,Norway,45.76,0.86,44.90
+90023024,Sage,Canada,45.82,38.59,7.23
+90023028,walmart,Canada,45.98,36.83,9.15
+90017058,Mbit,Portugal,46.03,15.45,30.58
+90017051,"Forward Stores",Portugal,46.16,17.75,28.41
+90023026,Relief,Canada,46.27,40.19,6.08
+90023027,Costco,Canada,46.67,34.75,11.92
+70010048,"Atliq e Store",Bangladesh,46.69,36.86,9.83
+90013120,Coolblue,Italy,47.23,25.38,21.85
